@@ -17,5 +17,4 @@ namespace WishList.Controllers
             return View("Error");
         }
     }
-
 }
